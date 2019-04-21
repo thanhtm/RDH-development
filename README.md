@@ -22,5 +22,10 @@ cited：Hou D, Zhang W, Chen K, et al. Reversible data hiding in color image wit
 cited: Hou D, Zhang W, Yang Y, et al. Reversible data hiding under inconsistent distortion metrics[J]. IEEE Transactions on Image Processing, 2018, 27(10): 5087-5099.
 
 ----
+* 3.[Reversible data hiding in JPEG image based on DCT frequency and block selection](https://github.com/wangfeng22/RHD-development/tree/master/Reversible%20Data%20Hiding%20%20in%20JPEG%20Image%20Based%20on%20DCT%20Frequency%20and%20Block%20Selection)
+
+cited:Hou D, Wang H, Zhang W, et al. Reversible data hiding in JPEG image based on DCT frequency and block selection[J]. Signal Processing, 2018, 148: 41-47.
+
+----
 ## ps
 只是方便自己学习搜寻的代码！！
