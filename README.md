@@ -19,6 +19,5 @@ cited：Hou D, Zhang W, Chen K, et al. Reversible data hiding in color image wit
 
 cited: Hou D, Zhang W, Yang Y, et al. Reversible data hiding under inconsistent distortion metrics[J]. IEEE Transactions on Image Processing, 2018, 27(10): 5087-5099.
 
-
-
-
+## ps
+只是方便自己学习搜寻的代码！！
