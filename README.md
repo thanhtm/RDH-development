@@ -24,12 +24,12 @@ cited: Hou D, Zhang W, Yang Y, et al. Reversible data hiding under inconsistent 
 ----
 * 3.[Reversible data hiding in JPEG image based on DCT frequency and block selection](https://github.com/wangfeng22/RHD-development/tree/master/Reversible%20Data%20Hiding%20%20in%20JPEG%20Image%20Based%20on%20DCT%20Frequency%20and%20Block%20Selection)
 
-cited:Hou D, Wang H, Zhang W, et al. Reversible data hiding in JPEG image based on DCT frequency and block selection[J]. Signal Processing, 2018, 148: 41-47.
+cited: Hou D, Wang H, Zhang W, et al. Reversible data hiding in JPEG image based on DCT frequency and block selection[J]. Signal Processing, 2018, 148: 41-47.
 
 ----
 * 4.[data-hiding_1MSB](https://github.com/wangfeng22/RHD-development/tree/master/data-hiding_1MSB)
 
-cited:Puteaux P, Puech W. An efficient MSB prediction-based method for high-capacity reversible data hiding in encrypted images[J]. IEEE Transactions on Information Forensics and Security, 2018, 13(7): 1670-1681.
+cited: Puteaux P, Puech W. An efficient MSB prediction-based method for high-capacity reversible data hiding in encrypted images[J]. IEEE Transactions on Information Forensics and Security, 2018, 13(7): 1670-1681.
 
 ----
 
