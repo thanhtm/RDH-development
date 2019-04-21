@@ -17,8 +17,7 @@
 cited：Hou D, Zhang W, Chen K, et al. Reversible data hiding in color image with grayscale invariance[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2019, 29(2): 363-374.
 
 ----
-* 2.[Reversible data hiding under inconsistent distortion metrics](https://github.com/wangfeng22/RHD-
-development/tree/master/Reversible%20data%20hiding%20under%20inconsistent%20distortion%20metrics)
+* 2.[Reversible data hiding under inconsistent distortion metrics](#Reversible data hiding under inconsistent distortion metrics)
 
 cited: Hou D, Zhang W, Yang Y, et al. Reversible data hiding under inconsistent distortion metrics[J]. IEEE Transactions on Image Processing, 2018, 27(10): 5087-5099.
 
