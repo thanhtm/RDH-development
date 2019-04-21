@@ -11,8 +11,13 @@
 - 可添加标签 tags: 密文域(ciphertext) | 明文域(plaintext) | 压缩图片 | 未压缩图片
 
 ## 目录
+- 1.Reversible Data Hiding in Color Image with Grayscale Invariance
 
+cited：Hou D, Zhang W, Chen K, et al. Reversible data hiding in color image with grayscale invariance[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2019, 29(2): 363-374.
 
+- 2.Reversible data hiding under inconsistent distortion metrics
+
+cited: Hou D, Zhang W, Yang Y, et al. Reversible data hiding under inconsistent distortion metrics[J]. IEEE Transactions on Image Processing, 2018, 27(10): 5087-5099.
 
 
 
