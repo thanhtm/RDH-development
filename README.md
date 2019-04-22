@@ -49,6 +49,10 @@ cited: Puteaux P, Puech W. An efficient MSB prediction-based method for high-cap
   - [google学术镜像](http://ac.scmor.com/)
     
     google学术的镜像网站，一般不会同时挂掉。
+  - [谷粉搜搜](https://gfsoso.99lb.net/)
+
+    谷粉学术：由国内谷妹.谷姐联合建立的方便大家稳定高速地使用谷歌学术的搜索引擎。如果你在用谷歌学术的同时您所在地区无法打开gg或者比较卡，欢迎使用谷粉.
+    
   - [arxiv](https://arxiv.org/)
     
     arXiv（X依希腊文的χ发音，读音如英语的archive）是一个收集物理学、数学、计算机科学与生物学论文预印本的网站。
