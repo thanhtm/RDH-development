@@ -33,5 +33,29 @@ cited: Puteaux P, Puech W. An efficient MSB prediction-based method for high-cap
 
 ----
 
-## ps
-只是方便自己学习搜寻的代码！！
+## 总结
+- 1.关于阅读英文文献
+  - [copytranslator](https://copytranslator.github.io/guide/download.html#%E5%9C%A8%E7%BA%BF%E4%BA%A4%E6%B5%81%E4%B8%8E%E5%8F%8D%E9%A6%88)
+    超级好用的google翻译工具，也是github上的开源项目。
+    
+- 2.论文管理工具
+  - [mendeley](https://www.mendeley.com/download-desktop/)
+     方便的论文管理工具，谁用谁知道。
+     
+- 3.论文检索推荐
+  - [google学术镜像](http://ac.scmor.com/)
+    google学术的镜像网站，一般不会同时挂掉。
+  - [arxiv](https://arxiv.org/)
+    arXiv（X依希腊文的χ发音，读音如英语的archive）是一个收集物理学、数学、计算机科学与生物学论文预印本的网站。
+    阅读最新文献必备。
+  - sci-hub
+    这个就有点神奇了，自己摸索下，给个[链接](https://zhuanlan.zhihu.com/p/24299207)。
+    此外，下载论文学校图书馆也有很多资源。
+
+- 4.[overleaf](https://www.overleaf.com/)
+  - 如果你想写点东西的话推荐使用latex,overleaf+sharlatex强强联合的在线编辑网站，可惜服务器在国外，有点卡。自己装个Latex慢慢搞把.
+
+- 5.[http://www.chengqingli.com/htdr/htdr.htm][http://www.chengqingli.com/htdr/htdr.htm]
+  - 听说做研究这个工具网站很好，我也没怎么看过。
+
+### 还有一些书籍等资料，可以直接找我要吧，尊重知识产权。在这个信息爆炸的时代，整理出一些有用的东西是需要花些时间的。    ...pending upgrade
