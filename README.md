@@ -33,6 +33,11 @@ cited: Hou D, Wang H, Zhang W, et al. Reversible data hiding in JPEG image based
 cited: Puteaux P, Puech W. An efficient MSB prediction-based method for high-capacity reversible data hiding in encrypted images[J]. IEEE Transactions on Information Forensics and Security, 2018, 13(7): 1670-1681.
 
 ----
+* 5.[data-hiding_histogram](https://github.com/wangfeng22/RHD-development/tree/master/data-hiding_histogram)
+
+cited: Huang F, Qu X, Kim H J, et al. Reversible data hiding in JPEG images[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2016, 26(9): 1610-1621.
+
+----
 
 ## 总结
 - 1.关于阅读英文文献
