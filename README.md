@@ -59,7 +59,7 @@ cited: Huang F, Qu X, Kim H J, et al. Reversible data hiding in JPEG images[J]. 
     
   - [dplc](https://dblp.uni-trier.de/search)
 
-     DBLP（DataBase systems and Logic Programming）是计算机领域内对研究的成果以作者为核心的一个计算机类英文文献的集成数据库系统。
+     DBLC（DataBase systems and Logic Programming）是计算机领域内对研究的成果以作者为核心的一个计算机类英文文献的集成数据库系统。
   - [arxiv](https://arxiv.org/)
     
     arXiv（X依希腊文的χ发音，读音如英语的archive）是一个收集物理学、数学、计算机科学与生物学论文预印本的网站。
