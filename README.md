@@ -66,7 +66,7 @@ cited: Huang F, Qu X, Kim H J, et al. Reversible data hiding in JPEG images[J]. 
     阅读最新文献必备。
   - sci-hub
     
-    这个就有点神奇了，自己摸索下，给个[链接](https://zhuanlan.zhihu.com/p/24299207)。
+    这个就有点神奇了，自己摸索下，给个[链接](https://zhuanlan.zhihu.com/p/24299207)。主要用于下载论文。
     此外，下载论文学校图书馆也有很多资源。
 
 - 4.[overleaf](https://www.overleaf.com/)
