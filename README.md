@@ -39,7 +39,7 @@ cited: Huang F, Qu X, Kim H J, et al. Reversible data hiding in JPEG images[J]. 
 
 ----
 
-## 总结
+## 一些经验
 - 1.关于阅读英文文献
   - [copytranslator](https://copytranslator.github.io/guide/download.html#%E5%9C%A8%E7%BA%BF%E4%BA%A4%E6%B5%81%E4%B8%8E%E5%8F%8D%E9%A6%88)
     
@@ -55,9 +55,11 @@ cited: Huang F, Qu X, Kim H J, et al. Reversible data hiding in JPEG images[J]. 
     
     google学术的镜像网站，一般不会同时挂掉。
   - [谷粉搜搜](https://gfsoso.99lb.net/)
-
     谷粉学术：由国内谷妹.谷姐联合建立的方便大家稳定高速地使用谷歌学术的搜索引擎。如果你在用谷歌学术的同时您所在地区无法打开gg或者比较卡，欢迎使用谷粉.
     
+  - [dplc](https://dblp.uni-trier.de/search)
+
+     DBLP（DataBase systems and Logic Programming）是计算机领域内对研究的成果以作者为核心的一个计算机类英文文献的集成数据库系统。
   - [arxiv](https://arxiv.org/)
     
     arXiv（X依希腊文的χ发音，读音如英语的archive）是一个收集物理学、数学、计算机科学与生物学论文预印本的网站。
@@ -73,5 +75,10 @@ cited: Huang F, Qu X, Kim H J, et al. Reversible data hiding in JPEG images[J]. 
 - 5.[http://www.chengqingli.com/htdr/htdr.htm](http://www.chengqingli.com/htdr/htdr.htm)
   - 听说做研究这个工具网站很好，我也没怎么看过。
 
+## 关于书籍资料
+- 1.信息论基础(Thomas M.cover joy A.Thomas)  ps:对我们很重要
+- ...
+
 ### ...pending upgrade
-还有一些书籍等资料，可以直接找我要吧，尊重知识产权。在这个信息爆炸的时代，整理出一些有用的东西是需要花些时间的。  
+
+
