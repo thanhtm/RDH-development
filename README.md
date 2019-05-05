@@ -1,6 +1,6 @@
 # RDH
 ## 文件介绍
-- 每个人件夹是一种RHD的方法，都是一些现有的方法简单实现
+- 每个人件夹是一种RDH的方法，都是一些现有的方法简单实现
 - 只是简易实现并非完全The method of the paper
 - 如果你想下载单个文件夹里的代码，可以用这个[downgit](https://minhaskamal.github.io/DownGit/#/home)，打开要下载的文件夹，把url复制进去。
 ## 代码更新规则
