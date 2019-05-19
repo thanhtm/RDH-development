@@ -71,7 +71,7 @@ cited: Huang F, Qu X, Kim H J, et al. Reversible data hiding in JPEG images[J]. 
     此外，下载论文学校图书馆也有很多资源。
 
 - 4.[overleaf](https://www.overleaf.com/)
-  - 如果你想写点东西的话推荐使用latex,overleaf+sharlatex强强联合的在线编辑网站，可惜服务器在国外，有点卡。自己装个Latex也可以.
+  - 如果你想写点东西的话推荐使用latex,overleaf+sharlatex强强联合的在线编辑网站.
 
 - 5.[http://www.chengqingli.com/htdr/htdr.htm](http://www.chengqingli.com/htdr/htdr.htm)
   - 听说做研究这个工具网站很好，我也没怎么看过。
