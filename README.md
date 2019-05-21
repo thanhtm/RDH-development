@@ -1,10 +1,12 @@
 # RDH
 ## 文件介绍
-- 每个文件夹是一种RDH的方法，都是一些现有的方法简单实现
-- 只是简易实现并非完全The method of the paper
+- 目录里的每个文件夹是一种RDH的方法，只是简易实现并非完全The method of the paper
 - 如果你想下载单个文件夹里的代码，可以用这个[downgit](https://minhaskamal.github.io/DownGit/#/home)，打开要下载的文件夹，把url复制进去。
+- [x] 仅仅是个人学习之用收集的代码。作为本科生读论文实在有些吃力，通过代码可以尽量理解自己读过的为数不多的论文。
+
 ## 代码更新规则
 - Put only one method in a folder
+
 - renewed on time
 
 ## 格式
